@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to create a custom hyperlink control
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e447)**
+**[[Run Online]](https://codecentral.devexpress.com/e447/)**
 <!-- run online end -->
 
 
